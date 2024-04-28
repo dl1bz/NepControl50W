@@ -8,3 +8,5 @@ For me this design in it's form is not acceptable, because it breaks the normal 
 Solution: I take the control over the main control signals like BIAS on/off and RX/TX relais with my own ESP32 controller and changed PA switch logic, which fix this "issue" completly. The "issue" is gone after my mod.
 
 *But be careful:* FIRST set a pure carrier tune signal with low power, that the PA can detect the band reliable (this works in this case) - that ALWAYS has to be the FIRST STEP if changing the band ! AFTER this you can transmit in SSB or other modes.
+
+My mod can only be used under this condition. A wrong band selection can damage the LPF capacitors !

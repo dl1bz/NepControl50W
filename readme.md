@@ -10,3 +10,8 @@ Solution: I take the control over the main control signals like BIAS on/off and 
 *But be careful:* FIRST set a pure carrier tune signal with low power, that the PA can detect the band reliable (this works in this case) - that ALWAYS has to be the FIRST STEP if changing the band ! AFTER this you can transmit in SSB or other modes.
 
 My mod is only allowed under this condition, because my mod remove the protection, which is causing the issue with SSB. A wrong band selection can damage the LPF capacitors !
+
+If you want to use my mod, you confirm the following:<BR>
+No guarantee, no warranty !<BR>
+You do all at your own risk !<BR>
+Only for use in amateur radio !

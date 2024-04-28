@@ -14,4 +14,5 @@ My mod is only allowed under this condition, because my mod remove the protectio
 If you want to use my mod, you confirm the following:<BR>
 No guarantee, no warranty !<BR>
 You do all at your own risk !<BR>
-Only for use in amateur radio !
+You know, what you do !<BR>
+Only for use in amateur radio, because you need to be a licensed hamradio operator !
